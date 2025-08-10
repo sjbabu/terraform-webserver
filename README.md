@@ -1,13 +1,13 @@
 Project Description
 
 Title:
-🚀 Terraform Project to Launch VPC and EC2 Instance with Remote State Management
-✅ Overview:
+ Terraform Project to Launch VPC and EC2 Instance with Remote State Management
+Overview:
 
 This project automates the provisioning of AWS infrastructure using Terraform, focusing on deploying a custom Virtual Private Cloud (VPC) and an EC2 instance, while also implementing secure and reliable Terraform state file management using Amazon S3 and DynamoDB.
 
 It follows Infrastructure as Code (IaC) best practices, allowing the environment to be repeatable, version-controlled, and collaborative.
-📦 What It Does:
+ What It Does:
 
     Creates a Custom VPC
 
@@ -57,7 +57,7 @@ It follows Infrastructure as Code (IaC) best practices, allowing the environment
 
     GitHub – Source control and collaboration
 
-🎯 Objectives:
+Objectives:
 
     Automate the creation of AWS resources using Terraform.
 
