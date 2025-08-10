@@ -55,7 +55,7 @@ variable "subnet_name" {
 
 
 variable "route_table_name" {
-  default = "Development-public-route"
+  default = "Development-public-routetable"
 }
 
 
