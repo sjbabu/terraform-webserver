@@ -46,7 +46,7 @@ Pipeline {
 
 
 
-                        error "Invalid action is just select. Please choose either 'apply' or 'destroy'."
+                        error "error is Invalid action is just select. Please choose either 'apply' or 'destroy'."
 
                     }
                 }
