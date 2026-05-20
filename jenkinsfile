@@ -1,4 +1,4 @@
-pipeline {
+Pipeline {
     agent any
 
     parameters {
@@ -43,9 +43,15 @@ pipeline {
                     } else if (params.action == 'destroy') {
                         sh 'terraform ${action} --auto-approve'
                     } else {
-                        error "Invalid action is selected. Please choose either 'apply' or 'destroy'."
+
+
+
+                        error "Invalid action is just chhsssssselected. Please choose either 'apply' or 'destroy'."
+
                     }
                 }
+
+
             }
         }
 
